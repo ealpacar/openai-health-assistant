@@ -1,5 +1,5 @@
 # openai-health-assistant
-Demo project for AI Applications in Medicine field class.
+Demo project for AI Applications in Medicine field class. /n
 Tıpta Yapay Zeka Uygulamaları final ödevi için yaptığım demo proje.
 
 # EN
