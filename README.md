@@ -1,6 +1,6 @@
 # openai-health-assistant
-Demo project for AI in Medicine field class.
-
+Demo project for AI Applications in Medicine field class.
+Tıpta Yapay Zeka Uygulamaları final ödevi için yaptığım demo proje.
 
 # EN
 * It needs the libraries first , pip install -r gereklilik.txt to install.
